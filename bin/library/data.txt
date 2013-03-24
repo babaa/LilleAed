@@ -1,0 +1,10 @@
+Lilleke,130,40,8
+Lilleke,90,30,9
+Lilleke,100,50,16
+Lilleke,70,40,14
+Umbrohi,100
+Umbrohi,130
+Umbrohi,170
+Umbrohi,70
+Umbrohi,88
+Umbrohi,88
